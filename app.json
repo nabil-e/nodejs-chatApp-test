@@ -1,0 +1,11 @@
+{
+  "name": "Test Nodejs",
+  "description": "TODO: Add a short description about Test Nodejs",
+  "keywords": [
+    "small",
+    "sharp",
+    "tool"
+  ],
+  "addons": [],
+  "env": {}
+}
